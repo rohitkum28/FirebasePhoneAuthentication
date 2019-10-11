@@ -1,3 +1,5 @@
+Clone the project.
+Run "npm install" to install the dependencies.
 Sign up for firebase ussing https://firebase.google.com/.
 Go to console you will be presented with this screen on completion of sign up process.
 Click on add project and fill in you project details.
